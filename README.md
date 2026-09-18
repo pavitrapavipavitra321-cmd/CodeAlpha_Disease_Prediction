@@ -81,7 +81,17 @@ CodeAlpha_Disease_Prediction/
 ---
 
 ### 🚀 How to Run Locally
+---
 
+### 🌐 Live Application
+
+The project is deployed using Streamlit Community Cloud.
+
+👉 [Live Demo](https://codealphadiseaseprediction-37nusg5hyfvjr2jybfmu4p.streamlit.app/)
+
+📂 [GitHub Repository](https://github.com/pavitrapavipavitra321-cmd/CodeAlpha_Disease_Prediction)
+
+---
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/<your-username>/CodeAlpha_Disease_Prediction.git
